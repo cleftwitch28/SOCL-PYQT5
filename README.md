@@ -50,12 +50,18 @@ iv.Matplotlib charts.
 
 ## Bibliography:
 ### Code References
+
 i.Codemy.com
+
 ii.Kaggle.com
+
 iii.Stackoverflow.com
+
 ### Images(UI) 
 i.Freepik.com
+
 ii. ShutterStock.com
+
 ### Map Tiles
 Mapbox.com
 ### Icons(UI)
