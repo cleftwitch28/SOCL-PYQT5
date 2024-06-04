@@ -55,3 +55,18 @@ Mapbox.com
 
 <a target="_blank" href="https://icons8.com/icon/1CE0gYy8a1e6/login">Quit</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
+<a target="_blank" href="https://icons8.com/icon/7LhMaNDFgoYK/create">Create</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a href="https://www.flaticon.com/free-icons/random" title="random icons">Random icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/magnifier" title="magnifier icons">Magnifier icons created by Dewi Sari - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/menu-bar" title="menu bar icons">Menu bar icons created by riajulislam - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/file" title="file icons">File icons created by Catalin Fertu - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/folder" title="folder icons">Folder icons created by juicy_fish - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/add-user" title="add user icons">Add user icons created by Md Tanvirul Haque - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/edit" title="edit icons">Edit icons created by Pixel perfect - Flaticon</a>
