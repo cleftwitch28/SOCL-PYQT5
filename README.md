@@ -24,9 +24,13 @@ Data augmentation using transforms of the torch library.
 
 ## DATASET: 
 It is a data set consisting of four types of soils.
+
 i.Alluvial 
+
 ii.Black 
+
 iii Clay
+
 iv.Red
 
 ## Concepts Used:
@@ -35,9 +39,13 @@ Convolutional neural networks with custom defined helper functions
 
 ## Diagnostic Performance:
 Evaluated model using:
+
 i.Heat maps.
+
 ii.Confusion matrix.
+
 iii.Accuracy score. 
+
 iv.Matplotlib charts.
 
 ## Bibliography:
