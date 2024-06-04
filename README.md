@@ -14,13 +14,13 @@ Therefore, the main objective of this work was the development of a graphical us
 The data to train the model was collected from kaggle.
 Where we collected close to 1600 images.
 
-## Subject
+## Aim
 Classifying different types of soils to predict what best action can be taken to retain its fertility 
 
 ## Data Preprocessing
-Customized resize function using the pillow library. 
-This function is used to resize all the input images to a standard size. In this case 128x128.
-Data augmentation using transforms of the torch library. 
+i.Customized resize function using the pillow library. This function is used to resize all the input images to a standard size. In this case 128x128.
+
+ii.Data augmentation using transforms of the torch library. 
 
 ## DATASET: 
 It is a data set consisting of four types of soils.
