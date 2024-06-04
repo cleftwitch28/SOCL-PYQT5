@@ -52,5 +52,5 @@ ii. ShutterStock.com
 Mapbox.com
 ### Icons(UI)
 <a target="_blank" href="https://icons8.com/icon/C63oseheHa1Z/upload">Upload</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
+<a target="_blank" href="https://icons8.com/icon/1CE0gYy8a1e6/login">Quit</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
